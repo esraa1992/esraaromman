@@ -1,0 +1,29 @@
+ body{
+     background: lightgrey;
+     color: black;
+            }
+ h1{
+    color: darkblue;
+            }
+#container{
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+    background: lightblue;
+}
+section{
+    width: 50%
+}
+.step {
+    float: right;
+}
+table, td {
+    border: 1px solid black;
+}
+h1 {
+    font-size: 2.5em; /* 40px/16=2.5em */
+}
+
+p {
+    font-size: 1.875em; /* 30px/16=1.875em */
+}
